@@ -16,11 +16,19 @@ h2 {
 
 p {
 	color: #fff;
-	font-size: 30px;
+	font-size: 20px;
 	margin-right: 60%;
+}
+
+ul {
+	color: #f4f4f4;
 }
 
 h3 {
 	font-size: 50p;
 	color: #f4f4f4;
+}
+
+a {
+	color: #fff;
 }
