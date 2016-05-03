@@ -1,5 +1,5 @@
 body {
-    background-image: url("/anielizabeth.github.io/unit_3/images/BG3.png");
+    background-image: url("/anielizabeth.github.io/unit_3/images/bg4.png");
 }
 
 h1 {
@@ -14,4 +14,10 @@ h2 {
 
 p {
 	color: #fff;
+	font-size: 40px;
+}
+
+h3 {
+	font-size: 50p;
+	color: #f4f4f4;
 }
