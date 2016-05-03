@@ -1,5 +1,5 @@
 body {
-    background-image: "http://kasibiz.co.za/wp-content/uploads/2015/11/131.jpg";
+    background-image: url("http://kasibiz.co.za/wp-content/uploads/2015/11/131.jpg");
 }
 
 h1 {
