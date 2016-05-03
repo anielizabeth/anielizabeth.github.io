@@ -2,7 +2,11 @@ body {
     background-color: #9DC8C8;
 }
 
-h1, p {
+h1 {
     color: #ff5f2e;
     font-size: 300px;
+}
+
+p {
+	color: #fff;
 }
