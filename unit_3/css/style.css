@@ -1,11 +1,16 @@
 body {
     background-color: #9DC8C8;
+    background-image: http://kasibiz.co.za/wp-content/uploads/2015/11/131.jpg ("131.jpg");
 }
 
 h1 {
     color: #ff5f2e;
     font-size: 150px;
     margin-top: 20px;
+}
+
+h2 {
+	color: #fff;
 }
 
 p {
