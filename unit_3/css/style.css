@@ -4,8 +4,5 @@ body {
 
 h1, p {
     color: #ff5f2e;
-}
-
-body {
-	background-image: /unit_3/images/image.png ("image.png")
+    font-size: 300px;
 }
