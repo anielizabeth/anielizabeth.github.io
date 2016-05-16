@@ -29,9 +29,11 @@ ul {
 
 h3 {
 	font-size: 50p;
-	color: #f4f4f4;
+	color: #3a3a3a;
+	color: #000;
+    background-color:yellow;
 }
 
 a {
-	color: #fff;
+	color: #000;
 }
