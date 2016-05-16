@@ -14,7 +14,7 @@ h1 {
 
 h2 {
 	font-size: 60px;
-	color: #fff;
+	color: #000;
 	display:block;
     margin-right: 70%;
     background-color:yellow;
@@ -22,7 +22,7 @@ h2 {
 
 p {
 	background-color: yellow;
-	color: #fff;
+	color: #000;
 	font-size: 20px;
 	margin-right: 60%;
 }
