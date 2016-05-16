@@ -7,12 +7,14 @@ h1 {
     font-size: 150px;
     margin-top: 20px;
     margin-bottom: 20px;
+    display: block;
     background-color:yellow;
 }
 
 h2 {
 	font-size: 60px;
 	color: #000;
+	display: block;
     background-color:yellow;
 }
 
@@ -20,20 +22,24 @@ p {
 	background-color: yellow;
 	color: #000;
 	font-size: 20px;
+	display: block;
 	margin-right: 60%;
 }
 
 ul {
-	color: #f4f4f4;
+	display: block;
+	color: #000000;
 }
 
 h3 {
 	font-size: 50p;
 	color: #3a3a3a;
 	color: #000;
+	display: block;
     background-color:yellow;
 }
 
 a {
-	color: #000;
+	color: #000
+;
 }
