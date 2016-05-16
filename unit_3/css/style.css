@@ -7,16 +7,12 @@ h1 {
     font-size: 150px;
     margin-top: 20px;
     margin-bottom: 20px;
-    display:block;
-    margin-right: 50%;
     background-color:yellow;
 }
 
 h2 {
 	font-size: 60px;
 	color: #000;
-	display:block;
-    margin-right: 70%;
     background-color:yellow;
 }
 
