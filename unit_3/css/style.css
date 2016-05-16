@@ -7,6 +7,8 @@ h1 {
     font-size: 150px;
     margin-top: 20px;
     margin-bottom: 20px;
+    display:block;
+    background-color:yellow;
 }
 
 h2 {
