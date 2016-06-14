@@ -9,8 +9,9 @@ nav {
     line-height:30px;
     background-color:#ffffff;
     height:300px;
-    width:100px;
+    width:100%;
     padding:5px;
+    text-align: center;
 }
 
 section {
@@ -23,7 +24,7 @@ section {
   display: block;
   width: 100%;
   margin: 0;
-  background: #fffebb;
+  background: #ffffff;
 }
 
 footer {
@@ -32,6 +33,7 @@ footer {
     clear:both;
     text-align:center;
     padding:5px;
+    width: 100%;
 }
 
 
