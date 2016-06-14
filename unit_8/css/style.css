@@ -1,60 +1,27 @@
-body {
-	font-size: 18px;
-	font-family: 'Open Sans', sans-serif;
-}
-
 header {
-    background-color: #ffed74;
-    border: 1px black solid;
-    padding: 20px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px; 
 }
-
-nav a {	
-	text-decoration: none;
-	color: black;
-	margin: 1.8em;
-	display: inline-block;
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
 }
-
-aside {
-	background-color: #ffc675;
-}
-
-article {
-	background-color: #e89c6c;
-}
-
-footer {
-	#ff957e;
-}
-
 section {
-  background: #222;
-  color: #fff;
+    width:350px;
+    float:left;
+    padding:10px; 
 }
-
-
-#image {
-  display: block;
-  width: 100%;
-  margin: 0;
-  background: #fffebb;
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
 }
-
-#two_column {
-    background-color: #FFB7CF;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#left {
-    background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#right {
-    background-color: #E55B88;
-    border: 1px black solid;
-    padding: 20px;
-}
+</style>
