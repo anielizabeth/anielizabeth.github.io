@@ -7,17 +7,25 @@ header {
 }
 nav {
     line-height:30px;
-    background-color:#eeeeee;
+    background-color:#ffffff;
     height:300px;
     width:100px;
-    float:left;
     padding:5px;
 }
+
 section {
     width:350px;
     float:left;
     padding:10px;
 }
+
+#image {
+  display: block;
+  width: 100%;
+  margin: 0;
+  background: #fffebb;
+}
+
 footer {
     background-color:black;
     color:white;
@@ -25,3 +33,5 @@ footer {
     text-align:center;
     padding:5px;
 }
+
+
