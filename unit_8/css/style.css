@@ -66,6 +66,12 @@ section {
     margin: 0 auto;
 }
 
+#how {
+  float: right;
+  display: block;
+  margin: 0 auto;
+}
+
 ul {
   list-style: none;
   margin: 0;
