@@ -51,8 +51,8 @@ nav a {
 }
 
 section {
-    width:350px;
-    float:left;
+  background-color: #ffffff;
+    width:100%;
     padding:10px;
 }
 
