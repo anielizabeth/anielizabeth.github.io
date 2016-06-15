@@ -53,6 +53,7 @@ nav a {
 }
 
 section {
+  text-align: center;
   background-color: #ffffff;
   padding: 0px;
   border-left: 5px;
