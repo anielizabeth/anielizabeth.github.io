@@ -30,7 +30,7 @@ section {
 }
 
 aside {
-  width: 350px;
+  width: 50%;
   float: right;
   background-color: #ffc675;
 }
@@ -40,6 +40,40 @@ article {
   float: left;
   background-color: #e89c6c;
 }
+
+
+
+ #notification {
+        font-size:0;
+    
+        display: inline-block;
+        height: 100px;
+        width: 100%;
+    }
+
+    #date_pane{
+        font-size:12px;
+        display: inherit;
+        height: inherit;
+        width:33%;
+    background-color:#ffc952;
+    }
+
+    #text_pane{
+        font-size:12px;
+        display: inherit;
+        height: inherit;
+        width: 33%; 
+    background-color:#47b8e0;        
+    }
+
+    #arrow_pane{
+        font-size:12px;
+        display: inherit;
+        height: inherit;
+        width:33%;
+    background-color:#ff7473;
+    }
 
 footer {
     background-color:black;
