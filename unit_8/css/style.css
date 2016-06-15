@@ -60,7 +60,7 @@ section {
 }
 
 .box {
-  width: 100%;
+  width: 90%;
 
 }
 
@@ -83,9 +83,7 @@ section {
     width: 35%;
     display: inline-block;
     vertical-align: middle;
-    border-style: dotted;
-    border-width: 2px;
-    height: 100%;
+ 
 }
 
 #how {
