@@ -58,19 +58,11 @@ section {
 }
 
 
-img{
-  float: left;
-    display: block;
-    margin: 0 auto;
-}
-
-
 #services {
-  float: right;
+  float: left;
    display: block;
     margin: 0 auto;
 }
-
 
 ul {
   list-style: none;
@@ -99,6 +91,17 @@ div {
   width: 50%;
   display: inline-block;
 }
+
+
+
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+
+
 
 footer {
   text-align: center;
