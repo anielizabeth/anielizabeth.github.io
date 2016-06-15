@@ -10,7 +10,7 @@ body {
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
   padding: 0px;
-  background-color: black;
+  background-color: #ffffff;
   margin: 0px;
 }
 
@@ -52,8 +52,9 @@ nav a {
 
 section {
   background-color: #ffffff;
-    width:100%;
-    padding:10px;
+  padding: 0px;
+  border-left: 5px;
+  border-right: 5px;
 }
 
 #about {
