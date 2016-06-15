@@ -9,6 +9,8 @@ header {
 body {
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
+  padding: 5px;
+  background-color: black;
 }
 
 h1,h2 {
@@ -92,7 +94,7 @@ div {
 #image {
   display: block;
   margin: 0;
-  width: 100%;
+  width: 95%;
   background-color: #ffffff;
   
 }
@@ -132,6 +134,8 @@ footer {
     line-height: 1.8em;
   }
 }
+
+
 
 @media only screen and (max-width: 480px) {
   h1, nav {
