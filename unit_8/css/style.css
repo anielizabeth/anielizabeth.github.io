@@ -57,12 +57,10 @@ section {
   border-right: 5px;
 }
 
-#about {
-  float: left;
-}
 
 #services {
-  float: right;
+   display: block;
+    margin: 0 auto;
 }
 
 ul {
