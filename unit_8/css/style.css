@@ -64,7 +64,8 @@ section {
   float: left;
    display: block;
     margin: 0 auto;
-    vertical-align:middle;
+    display: inline-block;
+    vertical-align: middle;
     border-style: dotted;
     border-width: 2px;
 }
@@ -75,7 +76,8 @@ section {
    display: block;
     margin: 0 auto;
     width: 35%;
-    vertical-align:middle;
+    display: inline-block;
+    vertical-align: middle;
     border-style: dotted;
     border-width: 2px;
 }
