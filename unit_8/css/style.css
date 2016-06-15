@@ -70,9 +70,7 @@ section {
     margin: 0 auto;
     display: inline-block;
     vertical-align: middle;
-    border-style: dotted;
-    border-width: 2px;
-    height: 100%;
+    
 }
 
 #icon1 {
