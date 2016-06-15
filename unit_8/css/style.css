@@ -92,7 +92,7 @@ div {
 #image {
   display: block;
   margin: 0;
-  
+  width: 100%;
   background-color: #ffffff;
   
 }
