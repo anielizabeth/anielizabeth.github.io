@@ -67,7 +67,7 @@ section {
 }
 
 #icon1 {
-  background-image: url("/anielizabeth.github.io/unit_8/images/");
+  img: url("/anielizabeth.github.io/unit_8/images/");
   float: left;
    display: block;
     margin: 0 auto;
