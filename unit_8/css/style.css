@@ -67,8 +67,8 @@ section {
 }
 
 #icon1 {
- 
-  float: left;
+
+  float: right;
    display: block;
     margin: 0 auto;
 }
@@ -176,7 +176,7 @@ footer {
   }
   
  #services {
-   float: none;
+   float: left;
    font-size: 1.4em;
     }
   section, div {
