@@ -5,6 +5,32 @@ header {
     text-align:center;
     padding:5px;
 }
+
+body {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2 {
+  text-transform: uppercase;
+  border-bottom: 4px solid black;
+  display: inline-block;
+  font-weight: 800;
+} 
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+  padding: .8em 0;
+  color: #fffebb;
+  border-bottom-color: #fffebb;
+}
+
+
+
 nav {
     line-height:30px;
     background-color:#ffffff;
@@ -20,13 +46,56 @@ section {
     padding:10px;
 }
 
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+  width: 50%;
+  height: 6em;
+  outline: 3px solid #222;
+  text-align: center;
+  line-height: 6em;
+  color: #000;
+  background: #fff;
+}
+
+nav {
+  font-size: 1.8em;
+  float: right;
+} 
+
+nav a { 
+  text-decoration: none;
+  color: black;
+  margin: 1.8em;
+  display: inline-block;
+}
+
+section {
+  background: #222;
+  color: #fff;
+  overflow: auto;
+}
+
+div {
+  font-size: 1.2em;
+  width: 46%;
+  padding: 2%;
+  width: 50%;
+  display: inline-block;
+}
+
 
 #image {
   display: block;
-  width: 100%;
   margin: 0;
-  background: #ffffff;
-  padding-top: 0px;
+  width: 100%;
+  background-color: #ffffff;
+  display: block;
 }
 
 aside {
@@ -43,45 +112,16 @@ article {
 
 
 
- #notification {
-        font-size:0;
-    
-        display: inline-block;
-        height: 100px;
-        width: 100%;
-    }
-
-    #date_pane{
-        font-size:12px;
-        display: inherit;
-        height: inherit;
-        width:33%;
-    background-color:#ffc952;
-    }
-
-    #text_pane{
-        font-size:12px;
-        display: inherit;
-        height: inherit;
-        width: 33%; 
-    background-color:#47b8e0;        
-    }
-
-    #arrow_pane{
-        font-size:12px;
-        display: inherit;
-        height: inherit;
-        width:33%;
-    background-color:#ff7473;
-    }
-
-footer {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-    padding:5px;
-    width: 100%;
+#about {
+  float: left;
 }
 
+#services {
+  float: right;
+}
 
+footer {
+  text-align: center;
+  padding: 1em 0;
+    clear: both;
+}
