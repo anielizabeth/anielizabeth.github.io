@@ -16,8 +16,8 @@ h1 {
 h2 {
   font-size: 26px;
   padding: 13px 0;
-  color: #fffebb;
-  border-bottom-color: #fffebb;
+  color: #58C9B9;
+  border-bottom-color: #9DC8C8;
 }
 
 ul {
@@ -70,7 +70,7 @@ img {
 }
 
 #hero {
-  background: #fffebb;
+  background: #58C9B9;
 }
 
 section {
